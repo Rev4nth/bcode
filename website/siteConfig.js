@@ -24,7 +24,7 @@ const siteConfig = {
   title: 'rCode', // Title for your website.
   tagline: 'A website for testing',
   url: 'https://rev4nth.github.io', // Your website URL
-  baseUrl: '/', // Base URL for your project */
+  baseUrl: '/rcode/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
   //   baseUrl: '/test-site/',
